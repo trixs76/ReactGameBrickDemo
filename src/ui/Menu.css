@@ -1,0 +1,43 @@
+.menu-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+
+.menu {
+  background: #111;
+  padding: 40px;
+  border-radius: 12px;
+  text-align: center;
+  min-width: 260px;
+  box-shadow: 0 0 20px #000;
+}
+
+.menu h1 {
+  color: #fff;
+  margin-bottom: 25px;
+}
+
+.menu button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 12px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+}
+
+.menu button:hover {
+  opacity: 0.9;
+}
+
+.menu .quit {
+  background: #c0392b;
+  color: #fff;
+}
