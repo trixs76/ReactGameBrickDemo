@@ -1,17 +1,8 @@
-# React + Vite
+# BRICK GAME in REACT
+A simple Arkanoid-style game built with React and HTML5 Canvas. The project focuses on core game mechanics such as ball physics, 
+paddle control, brick collisions, scoring system, lives management, and game state handling.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# ReactGameBrickDemo
+<img width="1893" height="886" alt="1" src="https://github.com/user-attachments/assets/ed3552c7-0e99-4698-aae6-6f503ecfcbed" />
+<img width="1893" height="882" alt="2" src="https://github.com/user-attachments/assets/7ac87894-cb2a-449c-b85a-a0d4697b4b8c" />
+<img width="1894" height="886" alt="3" src="https://github.com/user-attachments/assets/8eb76619-764c-4199-accc-c6f380c46e94" />
+<img width="1895" height="882" alt="4" src="https://github.com/user-attachments/assets/20426d02-f1f7-4f48-b928-ef7925074093" />
